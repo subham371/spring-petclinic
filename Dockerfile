@@ -1,4 +1,4 @@
-From maven
+From docker.io/maven
 
 COPY . /app/
 
